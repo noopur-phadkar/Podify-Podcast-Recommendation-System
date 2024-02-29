@@ -48,4 +48,4 @@ Together, these AWS services form the foundation of Podify's cloud-native archit
 Ready to experience the magic of Podify? Simply visit our web application, enter your preferences and interests, and let Podify do the rest. Within seconds, you'll receive personalized podcast recommendations that ignite your curiosity, inspire your imagination, and fuel your passion for storytelling.
 
 ## License
-Podify is licensed under the MIT License, ensuring that our technology remains open, accessible, and empowering for all.
+Podify is licensed under the [MIT License](LICENSE), ensuring that this technology remains open, accessible, and empowering for all.
